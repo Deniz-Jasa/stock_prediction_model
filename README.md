@@ -1,4 +1,6 @@
-# Stock Prediction Model - Hack The North 2021
+# Stock Prediction Tool - Predict - Hack The North 2021
+
+![Screen Shot 2021-09-19 at 9 51 18 AM](https://user-images.githubusercontent.com/46465622/133930040-e763bc3f-85a7-484f-be11-51ea0300a466.png)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
