@@ -4,7 +4,7 @@
 
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-**Method & Project Description:** Our stock prediction model uses a technical analysis approach at predicting the daily price movement of a stock and uses this data to attempt to predict future price movements.
+**Method & Project Description:** Our stock prediction model uses a technical analysis approach at predicting the daily price movement of a stock and uses this data to attempt to predict future price movements. Using machine learning and the random forest regression model, we analyzed different financial indicators, such as RSI (Relative Strength Index) that gave the model signals about the next price movement.
 
 **Our Group:** [Khuong Tran](https://github.com/KVKTRAN), [Deniz Jasarbasic](https://github.com/Deniz-Jasa), [Eric Karpovits](https://github.com/EricKarpovits), [Raz Levi](https://github.com/razlevio)
 
