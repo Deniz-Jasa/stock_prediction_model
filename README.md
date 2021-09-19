@@ -18,6 +18,6 @@ Within the project directory,
 
     1. Python install all the required python libraries and packages found in "requirements.txt".
     2. Execute in the terminal: "Jupyter notebook rsi.ipynb" - To run the prediction model.
-    3. Or execute in the terminal: "streamlit run data_visualization.py" - To run the model and the web app.
+    3. Execute in the terminal: "streamlit run data_visualization.py" - To run the model and the web app.
 
 Visit https://hackthenorth.com/ for more information about the competition and challenge.
