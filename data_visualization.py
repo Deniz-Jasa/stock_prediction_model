@@ -10,6 +10,7 @@ st.write("""
 """)
 
 # Description:
+st.markdown("Our Group: Khuong Tran, Deniz Jasarbasic, Eric Karpovits, Raz Levio")
 st.markdown("Language: Python")
 st.markdown("Technologies:")
 st.markdown("Method & Project Description: Our stock prediction model is using a technical analysis approach at predicting the daily price movement of a stock and uses this data to attempt to predict future price movements.")
@@ -26,7 +27,9 @@ df = pd.DataFrame(
     dt.prediction,
     columns=('col %d' % i for i in range(500)))
 
-st.dataframe(df)
+#st.dataframe(df)
+#st.plotly_chart(df)
+streamlit.pyplot(fig=None, clear_figure=None, **df)
 
 # Reruns the web app:
 st.button("Re-run")
